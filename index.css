@@ -1,0 +1,50 @@
+body{
+    margin: 10px;
+}
+.logo{
+    float: left;
+    font-size: 10px;
+    text-align: center;
+    color: rgb(241, 241, 201);
+}
+header ul{
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    padding: 20px 20px;
+    margin: 0;
+    background-color: rgb(30, 30, 255);
+}
+header ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+header ul a{
+    color: white;
+}
+.about{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+}
+.name{
+    font-size: 30px;
+    text-align: center;
+}
+.cour{
+    height: 150px;
+    width: 100px;
+    display: contents;
+}
+footer ul{
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    padding: 20px 20px;
+    margin: 0;
+    background-color: rgb(30, 30, 255);
+}
+footer ul a{
+    color: white;
+}
