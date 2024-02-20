@@ -5,7 +5,8 @@ body{
     float: left;
     font-size: 10px;
     text-align: center;
-    color: rgb(241, 241, 201);
+    color:black (241, 241, 201);
+    
 }
 header ul{
     align-items: center;
